@@ -4,3 +4,13 @@ Assignment for Front-End You are required to develop a mini Phone Directory appl
 Boostrap: Bootswatch.com (yati)
 Font: Fontawsome.com
 
+
+Tools Used:
+1. Bracket - Editor
+
+Script Used:
+1. HTML
+2. CSS/Bootsrap
+3. JavaScript
+
+
